@@ -2,7 +2,11 @@
 
 I'm a French computer science student currently studying in Germany with Erasmus.
 
-I love classical music and I play viola.
+I love classical music and I play the viola.
+
+<h2 align="center">Contact</h2>
+
+> Discord : **Pazu#4444**
 
 <h2 align="center">Languages</h2>
 
@@ -23,7 +27,3 @@ I love classical music and I play viola.
 3) **TypeScript** *for bringging the only lack of JavaScript: typing*
 4) **Python** *for its orientation to the scientific world and artificial intelligence, allowing everyone to simply view complex results*
 5) **Java** *for still being the most used language in companies*
-
-<h2 align="center">Contact</h2>
-
-> Discord : **Pazu#4444**
