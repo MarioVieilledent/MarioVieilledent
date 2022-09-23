@@ -4,13 +4,17 @@ I'm a French computer science student currently studying in Germany with Erasmus
 
 I love classical music and I play the viola.
 
-<h2 align="center">Contact</h2>
-
 > Discord : **Pazu#4444**
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioVieilledent&hide=javascript,css,scss,sass,less,html&theme=tokyonight)
+<div align="center">
+
+  ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioVieilledent&layout=compact&langs_count=10&theme=github_dark&hide=less)
+
+  ![GitHubStats](https://github-readme-stats.vercel.app/api?username=MarioVieilledent&show_icons=true&theme=github_dark&include_all_commits=true)
+  
+</div>
 
 #### Best mastered
 
