@@ -10,9 +10,9 @@ I love classical music and I play the viola.
 
 <div align="center">
 
-  ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioVieilledent&layout=compact&langs_count=10&theme=github_dark&hide=less)
+  ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioVieilledent&layout=compact&langs_count=10&theme=github_dark&hide=less,html,css,scss)
 
-  ![GitHubStats](https://github-readme-stats.vercel.app/api?username=MarioVieilledent&show_icons=true&theme=github_dark&include_all_commits=true)
+  <!-- ![GitHubStats](https://github-readme-stats.vercel.app/api?username=MarioVieilledent&show_icons=true&theme=github_dark&include_all_commits=true) -->
   
 </div>
 
