@@ -1,6 +1,6 @@
 <h2 align="center">About me</h2>
 
-I'm a French computer science student currently studying in Germany with Erasmus.
+Hey, I'm Mario, French student in computer science.
 
 I love classical music and I play the viola.
 
