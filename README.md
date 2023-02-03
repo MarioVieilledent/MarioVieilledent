@@ -4,7 +4,7 @@ Hey, I'm Mario, French student in computer science.
 
 I love classical music and I play the viola.
 
-> Discord <img width="48px" title="": **Pazu#4444**
+> Discord **Pazu#4444**
 
 <h2 align="center">Technologies</h2>
 
