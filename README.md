@@ -58,16 +58,9 @@ Also
 
 #### Best mastered
 
-1) **TS & JS, Node.js, Angular, React**
-2) **Java**, and Scala
+1) **TypeScript + Node.js + Angular, React or Svelte**
+2) **Java** and better, **Scala**
 3) **Go**
 4) **Rust**
 5) **PHP**
-
-#### My favorites
-
-1) **Go** *for its incredible simplicity, limited syntax, steep learning curve, built-in concurrency and fast compile time*
-2) **Rust** *for being the future of computer science and the only programming language used exclusively by Chads*
-3) **TypeScript** *for bringging the only lack of JavaScript: typing*
-4) **Python** *for its orientation to the scientific world and artificial intelligence, allowing everyone to easily access to complex results*
-5) **Java** *for still being the most used language in companies*
+42) **Prolog** *though it's a surprisingly very interesting programming language*
