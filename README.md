@@ -56,11 +56,11 @@ Also
   
 </div>
 
-#### Best mastered
+#### Best mastered PL
 
 1) **TypeScript + Node.js + Angular, React or Svelte**
-2) **Java** and better, **Scala**
+2) **Java** as well as **Scala**
 3) **Go**
-4) **Rust**
-5) **PHP**
-42) **Prolog** *though it's a surprisingly very interesting programming language*
+4) **PHP**
+5) **Rust**
+6) **Python**
