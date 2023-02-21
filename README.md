@@ -12,8 +12,7 @@ I love classical music and I play the viola.
 
 <h2 align="center">Technologies</h2>
 
-<div align="center" style="padding: 12px; margin-bottom: 12px; background: rgb(34,195,185); border-radius: 12px;
-background: radial-gradient(circle, rgba(34,195,185,0.13209033613445376) 0%, rgba(45,150,253,0.13489145658263302) 100%)">
+<div align="center" style="padding: 12px; margin-bottom: 12px;">
 
 Programming Languages
 
@@ -32,8 +31,7 @@ JS Framework
 <img width="60px" title="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img width="60px" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img width="60px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="60px" title="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" />
-<img width="60px" title="Solid" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solid/solid-original.svg" />
+<img width="60px" title="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 
 Databases
 
