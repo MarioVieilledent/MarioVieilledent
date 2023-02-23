@@ -6,9 +6,11 @@ Hey, I'm Mario, French student in computer science.
 
 I love classical music and I play the viola.
 
-> Discord: **Pazu#4444**
+Discord: **Pazu#4444**
 
-> Website: [mariovieilledent.github.io](https://mariovieilledent.github.io/)
+Website: [appirka.com](http://www.appirka.com/)
+
+Github.io: [mariovieilledent.github.io](https://mariovieilledent.github.io/)
 
 <h2 align="center">Technologies</h2>
 
