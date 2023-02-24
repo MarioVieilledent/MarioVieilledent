@@ -8,7 +8,7 @@ I love classical music and I play the viola.
 
 - Discord: **Pazu#4444**
 - [LinkedIn](https://www.linkedin.com/in/mario-vieilledent)
-- [Website](http://www.appirka.com/)
+- [Website](https://www.appirka.com/)
 - [Dibi Dictionary](https://dibi-dictionary.onrender.com/)
 - [Github.io](https://mariovieilledent.github.io/)
 
