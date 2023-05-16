@@ -57,7 +57,11 @@ Also
 
 <div align="center">
 
-  ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioVieilledent&layout=compact&langs_count=10&theme=github_dark&hide=less,html,css,scss,batchfile,procfile)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioVieilledent&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioVieilledent&theme=merko&layout=pie&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+
+  <!-- ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioVieilledent&layout=compact&langs_count=10&theme=github_dark&hide=less,html,css,scss,batchfile,procfile) -->
 
   <!-- ![GitHubStats](https://github-readme-stats.vercel.app/api?username=MarioVieilledent&show_icons=true&theme=github_dark&include_all_commits=true) -->
   
