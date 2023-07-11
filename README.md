@@ -17,25 +17,25 @@ I love classical music and I play the viola.
 <div align="center" style="padding: 12px; margin-bottom: 12px;">
 
 <div style="display: flex; justify-content: center;">
-  <img width="42px" src="icons/typescript.svg" title="TypeScript" style="filter: invert(80%); margin: 6px;">
-  <img width="42px" src="icons/rust.svg" title="Rust" style="filter: invert(80%); margin: 6px;">
-  <img width="42px" src="icons/go.svg" title="Go" style="filter: invert(80%); margin: 6px;">
-  <img width="42px" src="icons/javascript.svg" title="JavaScript" style="filter: invert(80%); margin: 6px;">
-  <img width="42px" src="icons/scala.svg" title="Scala" style="filter: invert(80%); margin: 6px;">
-  <img width="42px" src="icons/python.svg" title="Python" style="filter: invert(80%); margin: 6px;">
-  <img width="42px" src="icons/c.svg" title="C" style="filter: invert(80%); margin: 6px;">
-  <img width="42px" src="icons/php.svg" title="Angular" style="filter: invert(80%); margin: 6px;">
+  <img width="42px" src="icons/typescript.svg" title="TypeScript" style="margin: 6px;">
+  <img width="42px" src="icons/rust.svg" title="Rust" style="margin: 6px;">
+  <img width="42px" src="icons/go.svg" title="Go" style="margin: 6px;">
+  <img width="42px" src="icons/javascript.svg" title="JavaScript" style="margin: 6px;">
+  <img width="42px" src="icons/scala.svg" title="Scala" style="margin: 6px;">
+  <img width="42px" src="icons/python.svg" title="Python" style="margin: 6px;">
+  <img width="42px" src="icons/c.svg" title="C" style="margin: 6px;">
+  <img width="42px" src="icons/php.svg" title="Angular" style="margin: 6px;">
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img width="42px" src="icons/svelte.svg" title="Svelte" style="filter: invert(80%); margin: 6px;">
-  <img width="42px" src="icons/vuedotjs.svg" title="Vue" style="filter: invert(80%); margin: 6px;">
-  <img width="42px" src="icons/tauri.svg" title="Tauri" style="filter: invert(80%); margin: 6px;">
-  <img width="42px" src="icons/solid.svg" title="Solid" style="filter: invert(80%); margin: 6px;">
-  <img width="42px" src="icons/react.svg" title="React" style="filter: invert(80%); margin: 6px;">
-  <img width="42px" src="icons/deno.svg" title="Deno" style="filter: invert(80%); margin: 6px;">
-  <img width="42px" src="icons/nodedotjs.svg" title="Node.js" style="filter: invert(80%); margin: 6px;">
-  <img width="42px" src="icons/angular.svg" title="Angular" style="filter: invert(80%); margin: 6px;">
+  <img width="42px" src="icons/svelte.svg" title="Svelte" style="margin: 6px;">
+  <img width="42px" src="icons/vuedotjs.svg" title="Vue" style="margin: 6px;">
+  <img width="42px" src="icons/tauri.svg" title="Tauri" style="margin: 6px;">
+  <img width="42px" src="icons/solid.svg" title="Solid" style="margin: 6px;">
+  <img width="42px" src="icons/react.svg" title="React" style="margin: 6px;">
+  <img width="42px" src="icons/deno.svg" title="Deno" style="margin: 6px;">
+  <img width="42px" src="icons/nodedotjs.svg" title="Node.js" style="margin: 6px;">
+  <img width="42px" src="icons/angular.svg" title="Angular" style="margin: 6px;">
 </div>
 
 <h2 align="center">Stats</h2>
