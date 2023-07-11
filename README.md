@@ -7,7 +7,7 @@ Hey, I'm Mario, French student in computer science.
 I love classical music and I play the viola.
 
 - Discord: **Pazu#4444**
-- [LinkedIn](https://www.linkedin.com/in/mar[Title](margin:%25203px)io-vieilledent)
+- [LinkedIn](https://www.linkedin.com/in/mario-vieilledent)
 - [Website](https://www.appirka.com/)
 - [Dibi Dictionary](https://dibi-dictionary.onrender.com/)
 - [Github.io](https://mariovieilledent.github.io/)
@@ -16,26 +16,41 @@ I love classical music and I play the viola.
 
 <div align="center" style="padding: 12px; margin-bottom: 12px;">
 
-<div style="display: flex; justify-content: center;">
-  <img width="42px" src="icons/typescript.svg" title="TypeScript" style="margin: 6px;">
-  <img width="42px" src="icons/rust.svg" title="Rust" style="margin: 6px;">
-  <img width="42px" src="icons/go.svg" title="Go" style="margin: 6px;">
-  <img width="42px" src="icons/javascript.svg" title="JavaScript" style="margin: 6px;">
-  <img width="42px" src="icons/scala.svg" title="Scala" style="margin: 6px;">
-  <img width="42px" src="icons/python.svg" title="Python" style="margin: 6px;">
-  <img width="42px" src="icons/c.svg" title="C" style="margin: 6px;">
-  <img width="42px" src="icons/php.svg" title="Angular" style="margin: 6px;">
-</div>
+Programming Languages
 
-<div style="display: flex; justify-content: center;">
-  <img width="42px" src="icons/svelte.svg" title="Svelte" style="margin: 6px;">
-  <img width="42px" src="icons/vuedotjs.svg" title="Vue" style="margin: 6px;">
-  <img width="42px" src="icons/tauri.svg" title="Tauri" style="margin: 6px;">
-  <img width="42px" src="icons/solid.svg" title="Solid" style="margin: 6px;">
-  <img width="42px" src="icons/react.svg" title="React" style="margin: 6px;">
-  <img width="42px" src="icons/deno.svg" title="Deno" style="margin: 6px;">
-  <img width="42px" src="icons/nodedotjs.svg" title="Node.js" style="margin: 6px;">
-  <img width="42px" src="icons/angular.svg" title="Angular" style="margin: 6px;">
+<img width="60px" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img width="60px" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img width="60px" title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+<img width="60px" title="Scala" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
+<img width="60px" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img width="60px" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img width="60px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="60px" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+
+JS Framework
+
+<img width="60px" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img width="60px" title="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+<img width="60px" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="60px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="60px" title="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+
+Databases
+
+<img width="60px" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img width="60px" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img width="60px" title="Oracle SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+
+CI/CD
+
+<img width="60px" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img width="60px" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+
+Also
+
+<img width="60px" title="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img width="60px" title="Raspberry pi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+
 </div>
 
 <h2 align="center">Stats</h2>
