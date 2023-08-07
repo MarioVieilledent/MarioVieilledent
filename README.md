@@ -20,21 +20,24 @@ Programming Languages
 
 <img width="60px" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="60px" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img width="60px" title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-<img width="60px" title="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" />
+<img width="60px" title="Rust" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" />
+<img width="60px" title="Zig" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" />
 <img width="60px" title="Scala" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
 <img width="60px" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img width="60px" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img width="60px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width="60px" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img width="60px" title="Prolog" src="https://avatars.githubusercontent.com/u/6884283?s=280&v=4" />
 
 JS Framework
 
 <img width="60px" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img width="60px" title="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img width="60px" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="60px" title="Deno" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original-wordmark.svg" />
+<img width="60px" title="Deno" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/800px-Deno_2021.svg.png" />
 <img width="60px" title="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img width="60px" title="Solid js" src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" />
+<img width="60px" title="Qwik" src="https://seeklogo.com/images/Q/qwik-icon-logo-48EC4793C2-seeklogo.com.png" />
 <img width="60px" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 Databases
@@ -47,11 +50,13 @@ CI/CD
 
 <img width="60px" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img width="60px" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<img width="60px" title="Ansible" src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png" />
 
 Also
 
-<img width="60px" title="LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img width="60px" title="LaTeX" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png" />
 <img width="60px" title="Raspberry pi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+<img width="60px" title="Sci Hub" src="https://scontent.fcdg4-1.fna.fbcdn.net/v/t39.30808-6/273685260_1835591759974745_8322262149790410062_n.jpg?_nc_cat=106&cb=99be929b-3346023f&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=TrggZXEIBKUAX83DzVx&_nc_ht=scontent.fcdg4-1.fna&oh=00_AfAAb1UUE8MrloCWjzgntVtYhYaRunz-S6DZGeHuUAyMww&oe=64D64952" />
 
 </div>
 
