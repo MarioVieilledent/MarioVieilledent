@@ -34,6 +34,7 @@ JS Framework
 <img width="60px" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img width="60px" title="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img width="60px" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="60px" title="Bun" src="https://seeklogo.com/images/B/bun-logo-A876328A1F-seeklogo.com.png" />
 <img width="60px" title="Deno" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/800px-Deno_2021.svg.png" />
 <img width="60px" title="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img width="60px" title="Solid js" src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" />
@@ -56,7 +57,7 @@ Also
 
 <img width="60px" title="LaTeX" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png" />
 <img width="60px" title="Raspberry pi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-<img width="60px" title="Sci Hub" src="https://scontent.fcdg4-1.fna.fbcdn.net/v/t39.30808-6/273685260_1835591759974745_8322262149790410062_n.jpg?_nc_cat=106&cb=99be929b-3346023f&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=TrggZXEIBKUAX83DzVx&_nc_ht=scontent.fcdg4-1.fna&oh=00_AfAAb1UUE8MrloCWjzgntVtYhYaRunz-S6DZGeHuUAyMww&oe=64D64952" />
+<img width="60px" title="Sci Hub" src="https://upload.wikimedia.org/wikipedia/fr/c/c4/Sci-Hub_logo.png" />
 
 </div>
 
