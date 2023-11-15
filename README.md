@@ -2,9 +2,9 @@
 
 <h2 align="center">About me</h2>
 
-Hey, I'm Mario, French student in computer science.
+Hey, I'm Mario, French 24yo developer working in Trondheim (Norway).
 
-I love classical music and I play the viola.
+I love classical music and I play piano and viola.
 
 - Discord: **Pazu#4444**
 - [LinkedIn](https://www.linkedin.com/in/mario-vieilledent)
