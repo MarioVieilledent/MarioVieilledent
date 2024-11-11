@@ -2,13 +2,12 @@
 
 <h2 align="center">About me</h2>
 
-Hey, I'm Mario, French 24yo developer working in Trondheim (Norway).
+Hey, I'm Mario, French 25yo developer working in Trondheim (Norway).
 
 I love classical music and I play piano and viola.
 
 - Discord: **Pazu#4444**
 - [LinkedIn](https://www.linkedin.com/in/mario-vieilledent)
-- [pazu.dev](https://www.pazu.dev/)
 - [Dibi Dictionary](https://dibi-dictionary.onrender.com/)
 - [Github.io](https://mariovieilledent.github.io/)
 
